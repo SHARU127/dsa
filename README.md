@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SHARU127/dsa/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/SHARU127/dsa/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/SHARU127/dsa/tree/main/0118-pascals-triangle/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SHARU127/dsa/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/SHARU127/dsa/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SHARU127/dsa/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SHARU127/dsa/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
