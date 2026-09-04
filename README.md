@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/SHARU127/dsa/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SHARU127/dsa/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/SHARU127/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/SHARU127/dsa/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/SHARU127/dsa/tree/main/0118-pascals-triangle/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SHARU127/dsa/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/SHARU127/dsa/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SHARU127/dsa/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/SHARU127/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SHARU127/dsa/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/SHARU127/dsa/tree/main/0048-rotate-image/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/SHARU127/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
