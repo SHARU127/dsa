@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/SHARU127/dsa/tree/main/0018-4sum/) | Medium |
 | [0048-rotate-image](https://github.com/SHARU127/dsa/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SHARU127/dsa/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/SHARU127/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -16,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/SHARU127/dsa/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/SHARU127/dsa/tree/master/0075-sort-colors) |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/SHARU127/dsa/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/SHARU127/dsa/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/SHARU127/dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/SHARU127/dsa/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
