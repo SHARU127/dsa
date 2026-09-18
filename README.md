@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SHARU127/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/SHARU127/dsa/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/SHARU127/dsa/tree/main/0118-pascals-triangle/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/SHARU127/dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0229-majority-element-ii](https://github.com/SHARU127/dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/SHARU127/dsa/tree/main/0493-reverse-pairs/) | Hard |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SHARU127/dsa/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SHARU127/dsa/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/SHARU127/dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0229-majority-element-ii](https://github.com/SHARU127/dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/SHARU127/dsa/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## String
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/SHARU127/dsa/tree/main/0493-reverse-pairs/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SHARU127/dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
