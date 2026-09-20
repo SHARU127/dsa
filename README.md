@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SHARU127/dsa/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/SHARU127/dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/SHARU127/dsa/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/SHARU127/dsa/tree/main/0242-valid-anagram/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/SHARU127/dsa/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -36,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SHARU127/dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/SHARU127/dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/SHARU127/dsa/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/SHARU127/dsa/tree/main/0242-valid-anagram/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/SHARU127/dsa/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/SHARU127/dsa/tree/main/0242-valid-anagram/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/SHARU127/dsa/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
