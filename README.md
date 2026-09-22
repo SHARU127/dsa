@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SHARU127/dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/SHARU127/dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/SHARU127/dsa/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/SHARU127/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/SHARU127/dsa/tree/main/0493-reverse-pairs/) | Hard |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SHARU127/dsa/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/SHARU127/dsa/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SHARU127/dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/SHARU127/dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/SHARU127/dsa/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/SHARU127/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/SHARU127/dsa/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SHARU127/dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/SHARU127/dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/SHARU127/dsa/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/SHARU127/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/SHARU127/dsa/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/SHARU127/dsa/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/SHARU127/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SHARU127/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/SHARU127/dsa/tree/main/0493-reverse-pairs/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -110,4 +115,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SHARU127/dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SHARU127/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SHARU127/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SHARU127/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
