@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/SHARU127/dsa/tree/main/0018-4sum/) | Medium |
+| [0036-valid-sudoku](https://github.com/SHARU127/dsa/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/SHARU127/dsa/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/SHARU127/dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SHARU127/dsa/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/SHARU127/dsa/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/SHARU127/dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SHARU127/dsa/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/SHARU127/dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/SHARU127/dsa/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/SHARU127/dsa/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SHARU127/dsa/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/SHARU127/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
