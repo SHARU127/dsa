@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SHARU127/dsa/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/SHARU127/dsa/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/SHARU127/dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SHARU127/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/SHARU127/dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/SHARU127/dsa/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/SHARU127/dsa/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0018-4sum](https://github.com/SHARU127/dsa/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/SHARU127/dsa/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SHARU127/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SHARU127/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SHARU127/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0493-reverse-pairs](https://github.com/SHARU127/dsa/tree/main/0493-reverse-pairs/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
