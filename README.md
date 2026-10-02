@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/SHARU127/dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/SHARU127/dsa/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/SHARU127/dsa/tree/main/0018-4sum/) | Medium |
 | [0036-valid-sudoku](https://github.com/SHARU127/dsa/tree/main/0036-valid-sudoku/) | Medium |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/SHARU127/dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/SHARU127/dsa/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/SHARU127/dsa/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/SHARU127/dsa/tree/master/0075-sort-colors) |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SHARU127/dsa/tree/main/0020-valid-parentheses/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/SHARU127/dsa/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
