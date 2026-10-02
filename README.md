@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/SHARU127/dsa/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/SHARU127/dsa/tree/main/0018-4sum/) | Medium |
 | [0036-valid-sudoku](https://github.com/SHARU127/dsa/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/SHARU127/dsa/tree/main/0048-rotate-image/) | Medium |
@@ -24,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/SHARU127/dsa/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/SHARU127/dsa/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/SHARU127/dsa/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SHARU127/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/SHARU127/dsa/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/SHARU127/dsa/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/SHARU127/dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/SHARU127/dsa/tree/master/0075-sort-colors) |
